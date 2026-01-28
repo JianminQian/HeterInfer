@@ -1,0 +1,1 @@
+This is a project for heterorgenous inference on multi-vendor GPU/NPU environment
